@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|c:\\users\\usuario_1\\desktop\\proyecto_dis\\proyectodistribuidas\\proyecto_distribuidas\\proyecto_distribuidas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|solutionrelative:proyecto_distribuidas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|c:\\users\\usuario_1\\desktop\\proyecto_dis\\proyectodistribuidas\\proyecto_distribuidas\\proyecto_distribuidas\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|solutionrelative:proyecto_distribuidas\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|c:\\users\\usuario_1\\desktop\\proyecto_dis\\proyectodistribuidas\\proyecto_distribuidas\\proyecto_distribuidas\\models\\userrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|solutionrelative:proyecto_distribuidas\\models\\userrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|c:\\users\\usuario_1\\desktop\\proyecto_dis\\proyectodistribuidas\\proyecto_distribuidas\\proyecto_distribuidas\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|solutionrelative:proyecto_distribuidas\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|c:\\users\\usuario_1\\desktop\\proyecto_dis\\proyectodistribuidas\\proyecto_distribuidas\\proyecto_distribuidas\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|solutionrelative:proyecto_distribuidas\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|c:\\users\\usuario_1\\desktop\\proyecto_dis\\proyectodistribuidas\\proyecto_distribuidas\\proyecto_distribuidas\\views\\account\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|solutionrelative:proyecto_distribuidas\\views\\account\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|c:\\users\\usuario_1\\desktop\\proyecto_dis\\proyectodistribuidas\\proyecto_distribuidas\\proyecto_distribuidas\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|solutionrelative:proyecto_distribuidas\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|c:\\users\\usuario_1\\desktop\\proyecto_dis\\proyectodistribuidas\\proyecto_distribuidas\\proyecto_distribuidas\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|solutionrelative:proyecto_distribuidas\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|c:\\users\\usuario_1\\desktop\\proyecto_dis\\proyectodistribuidas\\proyecto_distribuidas\\proyecto_distribuidas\\data\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|solutionrelative:proyecto_distribuidas\\data\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|c:\\users\\usuario_1\\desktop\\proyecto_dis\\proyectodistribuidas\\proyecto_distribuidas\\proyecto_distribuidas\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|solutionrelative:proyecto_distribuidas\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|c:\\users\\usuario_1\\desktop\\proyecto_dis\\proyectodistribuidas\\proyecto_distribuidas\\proyecto_distribuidas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|solutionrelative:proyecto_distribuidas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|c:\\users\\usuario_1\\desktop\\proyecto_dis\\proyectodistribuidas\\proyecto_distribuidas\\proyecto_distribuidas\\controllers\\acccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|solutionrelative:proyecto_distribuidas\\controllers\\acccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|c:\\users\\usuario_1\\desktop\\proyecto_dis\\proyectodistribuidas\\proyecto_distribuidas\\proyecto_distribuidas\\views\\account\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|solutionrelative:proyecto_distribuidas\\views\\account\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|c:\\users\\usuario_1\\desktop\\proyecto_dis\\proyectodistribuidas\\proyecto_distribuidas\\proyecto_distribuidas\\proyecto_distribuidas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE604144-F1A2-4FF8-A9E7-DF7198AEE2B9}|Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj|solutionrelative:proyecto_distribuidas\\proyecto_distribuidas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Proyecto_Distribuidas\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Services\\AuthService.cs",
+              "RelativeToolTip": "Proyecto_Distribuidas\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:34:35.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountModel.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Models\\AccountModel.cs",
+              "RelativeDocumentMoniker": "Proyecto_Distribuidas\\Models\\AccountModel.cs",
+              "ToolTip": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Models\\AccountModel.cs",
+              "RelativeToolTip": "Proyecto_Distribuidas\\Models\\AccountModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:49:05.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRoleModel.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Models\\UserRoleModel.cs",
+              "RelativeDocumentMoniker": "Proyecto_Distribuidas\\Models\\UserRoleModel.cs",
+              "ToolTip": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Models\\UserRoleModel.cs",
+              "RelativeToolTip": "Proyecto_Distribuidas\\Models\\UserRoleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:51:07.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_Distribuidas\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Proyecto_Distribuidas\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:52:50.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_Distribuidas\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Proyecto_Distribuidas\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:52:24.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Views\\Account\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Proyecto_Distribuidas\\Views\\Account\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Views\\Account\\RegisterViewModel.cs",
+              "RelativeToolTip": "Proyecto_Distribuidas\\Views\\Account\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:54:53.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto_Distribuidas\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Program.cs",
+              "RelativeToolTip": "Proyecto_Distribuidas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:27:33.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Data\\User.cs",
+              "RelativeDocumentMoniker": "Proyecto_Distribuidas\\Data\\User.cs",
+              "ToolTip": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Data\\User.cs",
+              "RelativeToolTip": "Proyecto_Distribuidas\\Data\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:48:44.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Data\\Role.cs",
+              "RelativeDocumentMoniker": "Proyecto_Distribuidas\\Data\\Role.cs",
+              "ToolTip": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Data\\Role.cs",
+              "RelativeToolTip": "Proyecto_Distribuidas\\Data\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:41:29.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Proyecto_Distribuidas\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Proyecto_Distribuidas\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:41:30.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Proyecto_Distribuidas\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Proyecto_Distribuidas\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:31:01.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AcccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Controllers\\AcccountController.cs",
+              "RelativeDocumentMoniker": "Proyecto_Distribuidas\\Controllers\\AcccountController.cs",
+              "ToolTip": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Controllers\\AcccountController.cs",
+              "RelativeToolTip": "Proyecto_Distribuidas\\Controllers\\AcccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:49:05.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Views\\Account\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Proyecto_Distribuidas\\Views\\Account\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Views\\Account\\LoginViewModel.cs",
+              "RelativeToolTip": "Proyecto_Distribuidas\\Views\\Account\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:55:02.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Proyecto_Distribuidas",
+              "DocumentMoniker": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj",
+              "RelativeDocumentMoniker": "Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj",
+              "ToolTip": "C:\\Users\\Usuario_1\\Desktop\\PROYECTO_DIS\\ProyectoDistribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj",
+              "RelativeToolTip": "Proyecto_Distribuidas\\Proyecto_Distribuidas.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T14:22:14.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
